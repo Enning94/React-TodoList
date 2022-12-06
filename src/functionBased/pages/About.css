@@ -1,0 +1,12 @@
+h1 {
+  color: rgb(4, 116, 99);
+  text-align: center;
+  padding-top: 5rem;
+  text-decoration-line: underline;
+}
+
+p {
+  color: rgb(2, 65, 56);
+  padding: 4rem;
+  text-align: center;
+}
